@@ -1,0 +1,7 @@
+print("Welcome Stranger")
+
+city_name = input("What city are you from?\n")
+
+pet_name = input("What was name of your first pet?\n")
+
+print("Your brand name can be " + city_name + pet_name)
